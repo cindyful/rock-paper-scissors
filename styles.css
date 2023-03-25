@@ -1,0 +1,10 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.choices {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
